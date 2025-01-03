@@ -71,4 +71,3 @@ A chatbot built with Botpress, leveraging NLP for personalized career advice.
 
 ---
 
-Let me know if there’s anything else you’d like to adjust or enhance! 😊
