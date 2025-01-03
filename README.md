@@ -47,7 +47,7 @@ Here, you'll find a mix of:
 📌 **[ToDoList](https://github.com/irl-Code/ToDoList)**  
 A feature-rich ToDo app built with SwiftUI and Firebase.  
 
-📌 **[Function Plotter](https://github.com/irl-Code/Function-Plotter)**  
+📌 **[Function Plotter](https://github.com/irl-Code/Discrete-Project)**  
 A tool for visualizing mathematical functions with customizability.  
 
 ---
