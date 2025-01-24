@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hamza Wahab Mirani!  
+# 👋 Hi, I'm Hamza Wahab!  
 
 🎓 **Computer Science Student** | 📱 **iOS Developer** | 🤖 **AI Enthusiast**  
 
